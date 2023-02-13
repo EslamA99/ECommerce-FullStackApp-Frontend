@@ -8,6 +8,7 @@
 # ⚙ Features
 * Registration and login
 * View products
+* Pagination
 * Filter products viewing category
 * Add to cart
 * Purchase products.
@@ -18,11 +19,15 @@
 
 
 
+https://user-images.githubusercontent.com/36113402/218547479-b0a4a998-59a2-418e-b870-847ac4574ffe.mp4
+
+
+
 # ⚙ Technologies used
 * Maven
 * Spring Boot
 * Rest Api
-* ORM
+* Hibernate
 * Validation
 * MapStruct
 * Logback
@@ -31,6 +36,7 @@
 * Node JS
 * Okta for Security
 * MySQL
+
 
 
 # AngularEcommerce
